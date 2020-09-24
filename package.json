@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "babel-core": "^6.26.3",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-scripts-ts": "4.0.1"
   },
   "scripts": {
